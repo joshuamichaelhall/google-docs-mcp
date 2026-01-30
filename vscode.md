@@ -6,7 +6,7 @@ This guide shows you how to integrate the Ultimate Google Docs & Drive MCP Serve
 
 Before setting up VS Code integration, make sure you have:
 
-1. **Completed the main setup** - Follow the [README.md](README.md) setup instructions first
+1. **Completed the main setup** - Follow the [README.md](google-docs-mcp/README.md) setup instructions first
 2. **VS Code installed** - Download from [code.visualstudio.com](https://code.visualstudio.com/)
 3. **Working MCP server** - Verify your server works with Claude Desktop first
 
